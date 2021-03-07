@@ -122,5 +122,4 @@ STATIC_URL = '/static/'
 
 STATIC_DIRS = [
     BASE_DIR / "static",
-    '/var/www/static',
 ]
